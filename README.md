@@ -1,4 +1,6 @@
 # Machine_learning_ECG
+# IMAGE CLASSIFICATION
+The aim is to classify blood cell images into one of four classes. The procedures for training, testing, and evaluating the CNN model are implemented in this notebook.
 Developing classification models to predict cardiovascular disease from preprocessed ECG measurements.
 
 
